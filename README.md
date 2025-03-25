@@ -5,7 +5,8 @@ This repository contains two interactive Power BI dashboards that provide a comp
 
 **🔍 Overview**
 
-1️⃣**** Credit Card Customer Report**
+1️⃣**** **Credit Card Customer Report**
+
 This dashboard provides insights into credit card customers, helping businesses understand revenue contributions from different demographics.
 
 📌** Key Feature :**
@@ -19,7 +20,7 @@ Customer Satisfaction Score (CSS): A measure of customer experience.
 
 Revenue Trends: Weekly revenue analysis for trend detection.
 
-Demographic Breakdown:
+**Demographic Breakdown:**
 
 By Age Group (20-30, 30-40, etc.)
 
@@ -45,7 +46,7 @@ Card Category (Silver, Blue, Gold, Platinum)
 
 Gender-based analysis (Male, Female)
 
-2️⃣** Credit Card Transaction Report**
+2️⃣**Credit Card Transaction Report**
 
 This dashboard focuses on transaction-related insights, helping financial analysts track spending behavior and card usage trends.
 
@@ -83,7 +84,8 @@ Revenue by Chip Usage:
 
 Swipe, Chip-based, Online transactions.
 
-🎛️ Interactive Filters:
+🎛️ **Interactive Filters:**
+
 Quarter-wise filtering (Q1, Q2, Q3, Q4)
 
 Card Category filtering (Silver, Blue, Gold, Platinum)
@@ -92,7 +94,8 @@ Income Group-based insights (Low, Medium, High)
 
 Gender-based insights (Male, Female)
 
-📌 Technologies Used
+📌 **Technologies Used**
+
 Power BI: Used for interactive visualizations, dashboards, and data analytics.
 
 DAX (Data Analysis Expressions): Applied for calculated fields, aggregations, and advanced measures.
@@ -109,7 +112,7 @@ Compare quarterly trends and card category-wise revenue.
 Identify high-revenue customer groups and spending patterns.
 
 📂 Repository Contents
-📊 Screenshots of Power BI Dashboards
+📊 **Screenshots of Power BI Dashboards**
 
 
 
@@ -130,9 +133,10 @@ Identify high-revenue customer groups and spending patterns.
 
 
 
-📂 Power BI File (if applicable, add here)
 
-🏆 Benefits & Use Cases
+
+🏆 **Benefits & Use Cases**
+
 📈 Helps banks and financial institutions analyze customer spending habits.
 
 💳 Identifies the most profitable customer segments.
